@@ -12,3 +12,4 @@ D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\bin\Deb
 D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.Form1.resources
 D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.Properties.Resources.resources
 D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.csproj.GenerateResource.Cache
+D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.csprojResolveAssemblyReference.cache
