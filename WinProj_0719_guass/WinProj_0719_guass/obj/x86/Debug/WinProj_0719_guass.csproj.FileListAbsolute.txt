@@ -1,0 +1,7 @@
+D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\bin\Debug\WinProj_0719_guass.exe
+D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\bin\Debug\WinProj_0719_guass.pdb
+D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.Form1.resources
+D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.Properties.Resources.resources
+D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.csproj.GenerateResource.Cache
+D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.exe
+D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.pdb
