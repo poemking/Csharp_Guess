@@ -5,3 +5,10 @@ D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_gua
 D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.csproj.GenerateResource.Cache
 D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.exe
 D:\Ptactice\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.pdb
+D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.exe
+D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.pdb
+D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\bin\Debug\WinProj_0719_guass.exe
+D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\bin\Debug\WinProj_0719_guass.pdb
+D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.Form1.resources
+D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.Properties.Resources.resources
+D:\Git_version\Csharp_Guess-master\WinProj_0719_guass\WinProj_0719_guass\obj\x86\Debug\WinProj_0719_guass.csproj.GenerateResource.Cache
